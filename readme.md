@@ -1,5 +1,6 @@
-Je suis Jacques Lorville
-Champ d'interet : Faire carrire dans le domaine de l'informatique, soit dans une branche connexe!
+Nom et Prénom : Lorville Jacques Fils
+
+Champ d'interêt : Faire carrière dans le domaine de l'informatique, soit dans une branche connexe!
 
 
 
