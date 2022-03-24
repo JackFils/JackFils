@@ -1,6 +1,5 @@
 Je suis Jacques Lorville
-
-Mon champ dinteret : Faire carriere dans le domaine de linformatique, soit dans une branche connexe!
+Champ d'interet : Faire carrire dans le domaine de l'informatique, soit dans une branche connexe!
 
 
 
